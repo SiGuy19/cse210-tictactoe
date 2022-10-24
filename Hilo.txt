@@ -1,0 +1,7 @@
+class: DeckOfCards
+    variables: 
+class: Game
+    variables: int CurrentCard, string PlayerChoice, int NextCard, int Score
+
+
+
