@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 class TicTacToe
 {
+    Board board = new Board();
     static void Main(string[] args)
     {
         List<string> board = GetNewBoard();
